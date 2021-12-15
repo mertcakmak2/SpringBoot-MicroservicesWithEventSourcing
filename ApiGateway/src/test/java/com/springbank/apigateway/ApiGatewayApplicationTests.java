@@ -1,10 +1,10 @@
-package com.springbank.user.oauth20;
+package com.springbank.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OAuth2ApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {

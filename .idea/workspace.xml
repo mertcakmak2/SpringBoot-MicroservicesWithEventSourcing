@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70ca2a0a-1335-4d31-92d5-d99aa153d4a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/UserCommandApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/aggregates/UserAggregate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/commands/RegisterUserCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/commands/RemoveUserCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/commands/UpdateUserCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/controllers/RegisterUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/controllers/RemoveUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/controllers/UpdateUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/dto/RegisterUserResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/security/PasswordEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/security/PasswordEncoderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/test/java/com/springbank/user/cmd/api/UserCommandApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/configuration/AxonConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/dto/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/events/UserRegisterEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/events/UserRemovedEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/events/UserUpdatedEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/models/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/models/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/java/com/springbank/user/core/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.core/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/src/main/java/com/springbank/user/oauth20/OAuth2Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/src/main/java/com/springbank/user/oauth20/configuration/AuthServerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/src/main/java/com/springbank/user/oauth20/configuration/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/src/main/java/com/springbank/user/oauth20/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/src/main/java/com/springbank/user/oauth20/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.oauth2.0/src/test/java/com/springbank/user/oauth20/OAuth2ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/UserQueryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/controllers/UserLookupController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/dto/UserLookupResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/handlers/UserEventHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/handlers/UserEventHandlerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/handlers/UserQueryHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/handlers/UserQueryHandlerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/queries/FindAllUsersQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/queries/FindUserByIdQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/queries/SearchUsersQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/java/com/springbank/user/query/api/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/src/test/java/com/springbank/user/query/api/UserQueryApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22CKZJJpG23InCNS0tUz39dr0ea" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UserService" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mert_\OneDrive\Masaüstü\Projects\SpringBootApps\SpringBoot-MicroservicesWithEventSourcing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbank.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user.oauth2.0" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbank.user.oauth20.OAuth2Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCommandApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user.cmd.api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springbank.user.cmd.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbank.user.cmd.api.UserCommandApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserQueryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user.query.api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springbank.user.query.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbank.user.query.api.UserQueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OAuth2Application" />
+      <item itemvalue="Spring Boot.UserCommandApplication" />
+      <item itemvalue="Spring Boot.UserQueryApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserQueryApplication" />
+        <item itemvalue="Spring Boot.UserCommandApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70ca2a0a-1335-4d31-92d5-d99aa153d4a0" name="Changes" comment="" />
+      <created>1639336182727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639336182727</updated>
+      <workItem from="1639336184049" duration="1515000" />
+      <workItem from="1639337841770" duration="4615000" />
+      <workItem from="1639428436409" duration="2133000" />
+      <workItem from="1639489556525" duration="2038000" />
+      <workItem from="1639492136626" duration="657000" />
+      <workItem from="1639593512902" duration="7578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user.oauth2.0/src/main/java/com/springbank/user/oauth20/services/UserService.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
