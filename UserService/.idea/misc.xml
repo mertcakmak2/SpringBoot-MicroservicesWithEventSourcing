@@ -6,6 +6,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../BankAccountService/pom.xml" />
+        <option value="$PROJECT_DIR$/../BankAccountService/bankacc.query.api/pom.xml" />
+        <option value="$PROJECT_DIR$/../BankAccountService/bankacc.core/pom.xml" />
+        <option value="$PROJECT_DIR$/../BankAccountService/bankacc.cmd.api/pom.xml" />
+        <option value="$PROJECT_DIR$/../ApiGateway/pom.xml" />
       </list>
     </option>
   </component>
