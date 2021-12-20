@@ -8,10 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="user.core" />
-        <module name="user.query.api" />
-        <module name="user.cmd.api" />
         <module name="api-gateway" />
         <module name="bankacc.api" />
+        <module name="user.query.api" />
+        <module name="user.cmd.api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

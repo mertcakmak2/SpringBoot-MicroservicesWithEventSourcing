@@ -38,21 +38,21 @@ public class AccountEventHandlerImpl implements AccountEventHandler {
     @Override
     @EventHandler
     public void on(FundsDepositedEvent event) {
-        var bankAcoount = accountRepository.findById(event.getId());
-        if(bankAcoount.isEmpty()) return;
+        var bankAccount = accountRepository.findById(event.getId());
+        if(bankAccount.isEmpty()) return;
 
-        bankAcoount.get().setBalance(event.getBalance());
-        accountRepository.save(bankAcoount.get());
+        bankAccount.get().setBalance(event.getBalance());
+        accountRepository.save(bankAccount.get());
     }
 
     @Override
     @EventHandler
     public void on(FundsWithdrawnEvent event) {
-        var bankAcoount = accountRepository.findById(event.getId());
-        if(bankAcoount.isEmpty()) return;
+        var bankAccount = accountRepository.findById(event.getId());
+        if(bankAccount.isEmpty()) return;
 
-        bankAcoount.get().setBalance(event.getBalance());
-        accountRepository.save(bankAcoount.get());
+        bankAccount.get().setBalance(event.getBalance());
+        accountRepository.save(bankAccount.get());
     }
 
     @Override

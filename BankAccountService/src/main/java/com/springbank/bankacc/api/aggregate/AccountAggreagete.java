@@ -46,11 +46,11 @@ public class AccountAggreagete {
 
     @CommandHandler
     public void handle(DepositFundsCommand command){
-        var amaount = command.getAmount();
+        var amount = command.getAmount();
         var event = FundsDepositedEvent.builder()
                 .id(command.getId())
-                .amount(amaount)
-                .balance(this.balance + amaount).build();
+                .amount(amount)
+                .balance(this.balance + amount).build();
 
         AggregateLifecycle.apply(event);
     }
